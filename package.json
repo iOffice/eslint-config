@@ -1,6 +1,6 @@
 {
   "name": "@ioffice/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "iOFFICE",
   "description": "Default ESLint configuration for iOFFICE projects.",
   "files": [
