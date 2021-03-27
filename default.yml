@@ -8,7 +8,6 @@ plugins:
 extends:
   - plugin:@typescript-eslint/recommended
   - prettier
-  - prettier/@typescript-eslint
 rules:
   prettier/prettier: error
   "@typescript-eslint/no-empty-interface": 'off'
